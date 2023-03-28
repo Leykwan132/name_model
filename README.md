@@ -1,6 +1,9 @@
 ## Name Generator Language Model
 This language model, built using PyTorch and bigram, is designed to generate human-readable names based on given input. It can be used to generate names for various purposes, such as business names, product names, character names, and more.
 
+## Sample Output Generated
+![image](https://user-images.githubusercontent.com/56620672/228100770-d2461814-6cad-4ca2-bcdc-dcf266283706.png)
+
 ## How it Works
 The Name Generator Language Model is based on a deep learning model that uses a combination of techniques, including neural networks and natural language processing, to generate names that sound natural and appealing. The model is trained on a large corpus of existing names, using a bigram language model to learn patterns and relationships between letters, sounds, and words.
 
